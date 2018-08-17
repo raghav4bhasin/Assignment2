@@ -1,0 +1,7 @@
+x = int(input("Enter th first Number: "))
+y = int(input("Enter th second Number: "))
+z = int(input("Enter th third Number: "))
+print(' ')
+print('Variable 1 has value: ', x)
+print('Variable 2 has value: ', y)
+print('Variable 3 has value: ', z)
